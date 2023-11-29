@@ -15,8 +15,8 @@ Currently I am Working in Reactjs and Backend based projects.
 ### Skills
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,git,github,html,css,js,react,bootstrap,php,mysql,figma,vscode,office" />
+  <a href="https">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,git,github,html,css,js,react,bootstrap,php,mysql,figma,vscode" />
   </a>
 </p>
 
