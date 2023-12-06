@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data-Analyst||Share Market||Front-end Developer
 -----------------------------------------
 
-Currently I am Working in Reactjs and Backend based projects.
+Currently I am Working in Reactjs and Backend based projects and explore in Share Market or Tradding Field.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [100rabh25100@gmail.com](mailto:100rabh25100@gmail.com)
-* 🧠  I have intrest in Designing , Sketching , Painting  and  Web Developement 
+* 🧠  I have intrest in Designing, Sketching, Painting, Web Developement, Data Analystics, Share Market
 * 🤝  I'm open to collaborating on Web Development and Programming Softwares
 * 👨🏻‍🎓   Final Year Student IIT Roorkee 
 
