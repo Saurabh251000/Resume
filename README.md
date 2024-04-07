@@ -16,7 +16,7 @@ Currently I am Working in Reactjs and Backend based projects and explore in Shar
 
 <p align="center">
   <a href="https">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,git,github,html,css,js,react,bootstrap,php,mysql,figma,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,git,github,html,css,js,react,bootstrap,tailwind,nodejs,nextjs,typescript,express,go,php,mysql,figma,vscode" />
   </a>
 </p>
 
