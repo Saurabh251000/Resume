@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saurabh Kushwaha
 ===============================================================================================================================
 
-Full-Stack Developer||Programmer
+Full-Stack Developer|| Programmer
 -----------------------------------------
 
-Currently I am Working in typescript and Backend based projects and also explore in Share Market or Tradding Field.
+Currently I am Working in typescript , Next Js and Backend based projects and also explore in Share Market or Tradding Field.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [100rabh25100@gmail.com](mailto:100rabh25100@gmail.com)
