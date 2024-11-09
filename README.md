@@ -7,7 +7,7 @@ Full-Stack Developer|| Programmer
 Currently I am Working in typescript , Next Js and Backend based projects and also explore in Share Market or Tradding Field.
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [100rabh25100@gmail.com](mailto:100rabh25100@gmail.com)
+* ✉️  You can contact me at [saurabh.iitr24@gmail.com](mailto:saurabh.iitr24@gmail.com)
 * 🧠  I have intrest in Designing, Sketching, Painting, Web Developement, Data Analystics, Share Market
 * 🤝  I'm open to collaborating on Web Development and Programming Softwares
 * 👨🏻‍🎓   Final Year Student IIT Roorkee 
@@ -31,15 +31,43 @@ Currently I am Working in typescript , Next Js and Backend based projects and al
     <a href="https://www.kaggle.com/saurabh25100" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=kaggle" width="32" height="32" /></a>
 </p>
 
-### Badges
 
-<b>My GitHub Stats</b>
+## 📊 My GitHub Stats
 
-<a href="http://www.github.com/Saurabh251000"><img src="https://github-readme-stats.vercel.app/api?username=Saurabh251000&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Saurabh's GitHub stats" /></a>
+<table>
+  <tr>
+    <td>
+      <a href="http://www.github.com/Saurabh251000">
+        <img src="https://github-readme-stats.vercel.app/api?username=Saurabh251000&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Saurabh's GitHub stats" />
+      </a>
+    </td>
+    <td>
+      <a href="http://www.github.com/Saurabh251000">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabh251000&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<a href="http://www.github.com/Saurabh251000"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabh251000&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<div align="center">
+  <a href="http://www.github.com/Saurabh251000">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabh251000&theme=github-compact" alt="GitHub Commits Graph" />
+  </a>
+</div>
 
-<a href="http://www.github.com/Saurabh251000"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Saurabh251000&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://www.github.com/Saurabh251000" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh251000&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!-- 
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://www.github.com/Saurabh251000">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh251000&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+        </a>
+      </td>
+    </tr>
+  </table>
+ </div>
+ -->
+
 
