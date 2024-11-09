@@ -1,6 +1,6 @@
 # Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" />, I'm Saurabh Kushwaha!
 
-**`Full-Stack Developer || Programmer`**
+**`Full-Stack Developer || Competitive Programmer`**
 
 🌍 Based in India | 👨‍🎓 B.Tech, IIT Roorkee (2024 Batch)
 
@@ -16,7 +16,7 @@
 ---
 
 ### 📄 My Resume
-[View my resume](./resume.pdf)
+[View my resume](./Resume.pdf)
 
 ## 🛠️ Skills
 
